@@ -9,8 +9,8 @@
 ### 사용 Tool
 - [x] Visual Studio  
 ### 프로젝트 결과 (간략)
-<img src="/image/d1.png" width="600px" height="450px" alt="BlockDiagram"></img><br/><br/>
-<img src="/image/d2.png" width="600px" height="450px" alt="BlockDiagram"></img><br/>
+<img src="/image/d1.png" width="400px" height="370px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d2.png" width="400px" height="370px" alt="BlockDiagram"></img><br/>
 > **BFS Algorithm**  
 > > **Queue**를 이용하여 **같은 층**에 있는 노드들을 우선으로 방문  
 > > 1번에서 탐색을 시작할 경우 위와 같이 동작  
