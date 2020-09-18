@@ -9,4 +9,4 @@
 ### 사용 Tool
 - [x] Visual Studio  
 ### 프로젝트 결과 (간략)
-<img src="/image/d1.png" width="60px" height="450px" alt="BlockDiagram">
+<img src="/image/d1.png" width="600px" height="450px" alt="BlockDiagram">
