@@ -10,7 +10,7 @@
 
 # 🧐 프로젝트 목표
 - **그래프 알고리즘** 중 4가지의 알고리즘을 구현한 후 분석  
-  - `BFS Algorithm` `DFS(깊이 우선 탐색) Algorithm` `Kruskal Algorithm` `Prim Algorithm`  
+  - `BFS Algorithm` `DFS Algorithm` `Kruskal Algorithm` `Prim Algorithm`  
 
 # 👨‍💻 사용 기술 Stack
 - [x] Visual Studio  
@@ -27,7 +27,7 @@
 <img src="/image/d1.png" width="400px" height="280px" alt="BlockDiagram"></img><img src="/image/arrow.png" width="50px" height="280px" alt="Arrow"></img><img src="/image/d3.png" width="400px" height="280px" alt="BlockDiagram"></img><br/>
 > **DFS Algorithm**  
 
-👉 **Stack**를 이용하여 **가장 낮은 층**으로 향하여 노드들을 우선으로 방문  
+👉 **Stack**를 이용하여 **가장 깊은 층**으로 향하여 노드들을 우선으로 방문  
 👉 1번에서 탐색을 시작할 경우 위와 같이 동작  
 
 ---
@@ -44,4 +44,12 @@
 > **Prim Algorithm**
 
 👉 **최소 비용 신장 트리**를 만드는 알고리즘, **정점 우선** 및 **사이클 방지**의 특징이 있음  
-👉 탐색을 시작할 경우 위와 같이 동작
+👉 탐색을 시작할 경우 위와 같이 동작  
+
+---
+
+# ⚠️ License
+The theme is available as open source under the terms of the [MIT License](https://github.com/DCherish/Proj_Algorithm_3/blob/master/LICENSE).  
+###### *When you use this project, It would appreciate it if you could press the Star button*(⭐).
+
+---
